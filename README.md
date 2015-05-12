@@ -1,3 +1,3 @@
 # Test
-Test repository
+Test repository.
 To test setting up and working with Github repositories.
