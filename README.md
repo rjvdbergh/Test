@@ -6,3 +6,6 @@ Adding a new branch in order to test the link between merging a pull request and
 Yet another branch to test.
 
 Demo
+
+##Header
+###Sub-Header
